@@ -1,0 +1,16 @@
+C:\projects\Unturned\stuntfox\sf-reports\bin\Debug\StuntFox.Arrest.dll
+C:\projects\Unturned\stuntfox\sf-reports\bin\Debug\StuntFox.Arrest.pdb
+C:\projects\Unturned\stuntfox\sf-reports\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\projects\Unturned\stuntfox\sf-reports\bin\Debug\Assembly-CSharp.dll
+C:\projects\Unturned\stuntfox\sf-reports\bin\Debug\Newtonsoft.Json.dll
+C:\projects\Unturned\stuntfox\sf-reports\bin\Debug\Rocket.API.dll
+C:\projects\Unturned\stuntfox\sf-reports\bin\Debug\Rocket.Core.dll
+C:\projects\Unturned\stuntfox\sf-reports\bin\Debug\Rocket.Unturned.dll
+C:\projects\Unturned\stuntfox\sf-reports\bin\Debug\UnityEngine.CoreModule.dll
+C:\projects\Unturned\stuntfox\sf-reports\bin\Debug\UnityEngine.dll
+C:\projects\Unturned\stuntfox\sf-reports\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\projects\Unturned\stuntfox\sf-reports\obj\Debug\sf-reports.csprojAssemblyReference.cache
+C:\projects\Unturned\stuntfox\sf-reports\obj\Debug\sf-reports.csproj.CoreCompileInputs.cache
+C:\projects\Unturned\stuntfox\sf-reports\obj\Debug\sf-reports.csproj.CopyComplete
+C:\projects\Unturned\stuntfox\sf-reports\obj\Debug\StuntFox.Arrest.dll
+C:\projects\Unturned\stuntfox\sf-reports\obj\Debug\StuntFox.Arrest.pdb
